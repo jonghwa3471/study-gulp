@@ -15,7 +15,7 @@ Learn Gulp by building an awesome development environment
 ## ✅ Packages
 
 - [x] Gulp
-- [x] Javascript
+- [x] JavaScript
 
 ## 📖 Theory
 
